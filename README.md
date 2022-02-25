@@ -1,2 +1,6 @@
 # Odd-Numbers-PY
-Hackerrank practice
+- Hackerrank practice
+
+## Built With
+- VS Code
+- Python
